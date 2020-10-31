@@ -24,7 +24,7 @@ Transfer the weight of the balance to the left side.
 
 #### Church
 
-Play in this order: F#, Re, La, Si, Do#, So.
+Play in this order: F#, Re, La, Si, Do#, So. (F#, D, A, B, C#, G)
 
 #### Twin Towers
 
