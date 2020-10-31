@@ -6,7 +6,7 @@ This game is very open-ended, and as a result you may find yourself stuck. Pleas
 * Many places and things can be associated with the same mystery. Don't let yourself get too focused on a single thing; it's better to go to different places and see different things.
 * Every world has its own map. When you move to a new world it's best to search for its map first. This will not only make it easier to navigate, but it will also let you know the names of places.
 * Once you have a map, make sure you pay attention to place names. These can be hints to puzzles.
-* Make good use of the elimination feature(?), which can give you advice on things to fix in various places. This advice isn't a direct spoiler and isn't the same thing as forbidden knowledge.
+* Make good use of the hint feature, which can give you advice on things to fix in various places. This advice isn't a direct spoiler and isn't the same thing as forbidden knowledge.
 
 ## Forbidden Answers (Dangerous!)
 
